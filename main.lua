@@ -18,8 +18,8 @@ local TILE_TYPES = {
   ['L'] = { sprite = 6, isImpassable = true },
   ['M'] = { sprite = 7, isImpassable = true },
   -- House
-  ['H'] = { sprite = 8, isPortal = true, url = 'https://raw.githubusercontent.com/schazers/ghost-racer/master/main.lua' },
-  ['W'] = { sprite = 8, isPortal = true, url = 'https://raw.githubusercontent.com/schazers/wat-dont/master/main.lua' },
+  ['H'] = { sprite = 8, isPortal = true, url = 'https://raw.githubusercontent.com/schazers/ghost-racer/e8e6469b47094caaf37f5e4070b6834ce7011023/main.lua' },
+  ['W'] = { sprite = 8, isPortal = true, url = 'https://raw.githubusercontent.com/schazers/wat-dont/dc4786fe64b3cdd1fc0c25b77488a5edcc13b939/main.lua' },
   -- Path
   ['~'] = { sprite = 9 },
   -- Lake
